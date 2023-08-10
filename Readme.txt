@@ -1,3 +1,8 @@
+Demo sample page for small business
+
+
+ORIGINAL TEXT
+
 Thanks for downloading this template!
 
 Template Name: Day
